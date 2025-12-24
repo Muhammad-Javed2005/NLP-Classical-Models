@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Repository Overview
+##  Repository Overview
 
 **This repository is developed by Muhammad Javed for learning and practice purposes.**
 
@@ -20,7 +20,7 @@ Each notebook focuses on **one classical NLP model**, including preprocessing, f
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand NLP pipelines step by step
 - Learn text vectorization techniques (Bag of Words, TF-IDF)
@@ -30,7 +30,7 @@ Each notebook focuses on **one classical NLP model**, including preprocessing, f
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.11  
 - **Libraries Used:**
@@ -42,7 +42,7 @@ Each notebook focuses on **one classical NLP model**, including preprocessing, f
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 NLP-Classical-Models/
@@ -60,40 +60,29 @@ NLP-Classical-Models/
 
 ---
 
-## 📘 Notebook Details
+##  Notebook Details
 
-### 1️⃣ Naive Bayes
+### 1️. Naive Bayes
 Probabilistic classifier widely used in spam filtering and sentiment analysis.
 
-### 2️⃣ Logistic Regression
+### 2️. Logistic Regression
 Baseline linear model effective for text classification.
 
-### 3️⃣ Support Vector Machine (SVM)
+### 3️. Support Vector Machine (SVM)
 Margin-based classifier suitable for high-dimensional text data.
 
-### 4️⃣ K-Nearest Neighbors (KNN)
+### 4️. K-Nearest Neighbors (KNN)
 Distance-based algorithm using similarity between text vectors.
 
-### 5️⃣ Decision Tree
+### 5️. Decision Tree
 Rule-based and interpretable classifier.
 
-### 6️⃣ Random Forest
+### 6️. Random Forest
 Ensemble learning method that reduces overfitting.
 
----
 
-## ❓ Why This Is Study Material (Not a Project)
 
-- No single real-world application
-- No deployment or UI
-- Independent notebooks
-- Focus on learning algorithms and concepts
-
-👉 This repository is designed for **learning, practice, and revision**, not for production use.
-
----
-
-## 🚀 How to Use
+##  How to Use
 
 ```bash
 git clone https://github.com/Muhammad-Javed2005/NLP-Classical-Models.git
@@ -102,7 +91,7 @@ jupyter notebook
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add preprocessing-only notebook
 - Compare BoW vs TF-IDF
@@ -111,14 +100,14 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+##  Author
 
 **Muhammad Javed**  
 Computer Engineering Student | Machine Learning Enthusiast  
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **GitHub:** https://github.com/Muhammad-Javed2005  
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-javed-24b262369/  
